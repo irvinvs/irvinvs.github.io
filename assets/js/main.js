@@ -1,8 +1,6 @@
 /**
-* Template Name: MyResume - v2.0.0
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Irvin Garza
+* Author: irvin Garza
 */
 !(function($) {
   "use strict";
