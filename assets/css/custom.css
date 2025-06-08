@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #005f73;
+  --font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+a.logo {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.button.primary, .button {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #fff;
+}
+
+ul.links li a:hover {
+  color: var(--primary-color);
+}
