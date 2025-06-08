@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://irvinvs.github.io/index.html
+Sitemap: https://irvinvs.github.io/sitemap.xml
